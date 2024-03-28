@@ -5,4 +5,15 @@ This directory contains the dataset used for training and testing the classifier
 
 ## STEPS to run the project:
 Clone the repository
+## Step 1:
+git clone https://github.com/barkha2025/SMS_Spam-Classifier.git
+## Step 2:
+Create an environment & activate
+
+conda create -n env python=3.8 -y
+## Step 3:
+Install th requirments
+
+pip install -r requirements.txt
+
 
