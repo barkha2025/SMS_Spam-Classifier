@@ -11,13 +11,6 @@ git clone https://github.com/barkha2025/SMS_Spam-Classifier.git
 Create an environment & activate
 
 conda create -n env python=3.8 -y
-##Step 3:
-Install the requirements
-
-pip install -r requirements.txt
-
-
-conda create -n env python=3.8 -y
 ## Step 3:
 Install th requirments
 
